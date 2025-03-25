@@ -22,3 +22,12 @@ https://github.com/user-attachments/assets/d90897b4-2650-4570-8088-a61d5d9886fb
 4.  3D打印结构件
 5.  添加了串口屏（触控）的交互方向。可以用它控制机器人拾取棋子。
 ![触控屏交互界面](https://github.com/user-attachments/assets/7eba8e55-7e4d-4a54-b2a8-52e1091f8c61)
+#### 花絮
+![Representation2](https://github.com/user-attachments/assets/e94ee9f2-8c7b-47e9-b2dc-87bf852d2fff)
+![Representation3](https://github.com/user-attachments/assets/e2f75a30-a106-4cf6-af93-3e6bd7c6fd06)
+![结构设计图](https://github.com/user-attachments/assets/ff36c5c6-8748-4ef2-919d-13b19937b509)
+
+
+https://github.com/user-attachments/assets/03ddc080-e471-4e68-9968-d545d53ab935
+
+
