@@ -1,5 +1,6 @@
 这是一个会下三子棋的机器人。可以实现人机对弈。该项目荣获全国大学生电子设计大赛三等奖（2024E题），由张承璧、潘玮同学与我共同完成，我担任团队队长。
-![overview](https://github.com/user-attachments/assets/e375ac65-add8-4d3f-a2e3-f61c3391f270)
+
+![Representation](https://github.com/user-attachments/assets/272f9cb6-7245-4d2f-9c10-fa8edddd0abf)
 
 #### 功能实现
 - 棋子位置识别：棋格&棋子在空间中的位置已预先标定，其坐标信息作为一组数据预先存储于系统中。系统通过识别棋格&棋子在图像中的位置与其预先标定的坐标进行匹配，从而确定棋子的精确位置。
@@ -11,4 +12,4 @@ https://github.com/user-attachments/assets/d90897b4-2650-4570-8088-a61d5d9886fb
 
 #### 硬件构成
 总体的的结构连接件使用3D打印。
-![结构设计图](https://github.com/user-attachments/assets/73d5c5de-3d27-4855-a337-06b9203f9ab7)
+![结构设计图带棋盘](https://github.com/user-attachments/assets/fa3b1786-76ad-4c73-81ff-9d37f5715e40)
