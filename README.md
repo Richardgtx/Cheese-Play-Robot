@@ -1,4 +1,4 @@
-###三子棋机器人
+###  三子棋机器人
 这是一个会下三子棋的机器人。可以实现人机对弈。该项目荣获全国大学生电子设计大赛三等奖（2024E题），由张承璧、潘玮同学与我共同完成，我担任团队队长。
 
 ![Representation](https://github.com/user-attachments/assets/272f9cb6-7245-4d2f-9c10-fa8edddd0abf)
